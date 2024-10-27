@@ -1,0 +1,4 @@
+9) Explique la cardinalidad del prestamo de libros:
+La cardinalidad del prestamo libros es de (N;N) Muchos a Muchos, entonces creo una tercer tabla de relacion tabulado en el grafico del punto 7.
+10) Explique la diferencia entre especializacion y generalizacion:
+La especialización y generalización no se diferencian visualmente, pero sus enfoques son distintos. La especialización se usa para mostrar atributos únicos de subentidades, como cliente y empleado, que derivan de una entidad común, como persona. Mientras que, la generalización agrupa entidades con características comunes en un solo conjunto de nivel superior, basándose en similitudes compartidas.
